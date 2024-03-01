@@ -1,5 +1,9 @@
 ## Projects
 
+- **[Red Wine Quality Prediction](https://github.com/Garvit414/Projects/tree/main/Red_Wine_Quality_Prediction)**
+  
+  A machine learning model deployed through Streamlit for predicting the quality of red wine based on various chemical properties. This interactive web application provides insights into wine quality assessment, aiding both enthusiasts and industry professionals.
+
 - **[Cardiovascular Disease Prediction](https://github.com/Garvit414/Projects/tree/main/Cardiovascular_Disease_Prediction)**
   
   Predicting cardiovascular disease risk using machine learning techniques. This project aims to assist in early detection and prevention of heart-related ailments by analyzing key health metrics.
@@ -8,9 +12,6 @@
   
   Implementation of object detection algorithms for identifying and localizing objects within images or video streams using Yolov5 model. This project explores state-of-the-art techniques in computer vision for diverse applications like surveillance, autonomous vehicles, and augmented reality.
 
-- **[Red Wine Quality Prediction](https://github.com/Garvit414/Projects/tree/main/Red_Wine_Quality_Prediction)**
-  
-  A machine learning model deployed through Streamlit for predicting the quality of red wine based on various chemical properties. This interactive web application provides insights into wine quality assessment, aiding both enthusiasts and industry professionals.
 
 - **[Voice Assistant using Python Libraries and Web Scraping](https://github.com/Garvit414/Projects/tree/main/Voice%20Assistant)**
   
